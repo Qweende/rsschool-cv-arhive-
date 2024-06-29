@@ -5,3 +5,4 @@ At the moment I don’t have any solid skills in programming languages, but I re
 An example code can be seen here: https://github.com/Qweende/rsschool-cv/blob/gh-pages/cv.md
 During this period of time, I did not work anywhere as a developer, I worked only in testing Yandex projects
 Education: higher legal
+English level a2+. Practiced only in correspondence with foreigners. Sometimes when using various applications.
