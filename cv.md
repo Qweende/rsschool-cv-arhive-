@@ -1,5 +1,38 @@
-PRYSTAUKA MAKSIM
-my discord - rocket_qweende
+# **PRYSTAUKA MAKSIM**
+
+
+## Сontacts
+
+* Grodno,Belarus
+* Email: qweendeqween@gmail.com 
+* Discord - rocket_qweende
+* Github: [Qweende] (https://github.com/Qweende)
+* Telegram: @qdqween
+
+## About me
+
+My main goal is to learn a new programming language and gain knowledge for its further application and work. I have no experience working in organizations, but I have enthusiasm and a desire to learn! My strength is perseverance! Patience and a little effort!
+
+## Skills and Proficiency:
+
+* HTML5, CSS3
+* JavaScript Basics
+* VS Code
+* Adobe adobe premiere, photoshop, Illustrator, after effects
+
+## Code example:
+
+Ниже приведен пример кода JS в котором выражается функция. Мы можем передать внутрь функции любую информацию, используя определнные параметры.
+
+'''
+function showMessage(from, text) { 
+  alert(from + ': ' + text);
+}
+
+showMessage('Петя', 'Привет!'); 
+showMessage('Ваня', "Как дела?"); 
+'''
+
 At the moment, my main goal is to learn a new programming language and gain knowledge. Now I work as a 1C project manager.
 At the moment I don’t have any solid skills in programming languages, but I really want to master them.
 An example code can be seen here: https://github.com/Qweende/rsschool-cv/blob/gh-pages/cv.md
