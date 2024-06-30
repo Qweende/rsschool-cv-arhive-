@@ -24,14 +24,14 @@ My main goal is to learn a new programming language and gain knowledge for its f
 
 Ниже приведен пример кода JS в котором выражается функция. Мы можем передать внутрь функции любую информацию, используя определнные параметры.
 
-'''
+```
 function showMessage(from, text) { 
   alert(from + ': ' + text);
 }
 
 showMessage('Петя', 'Привет!'); 
 showMessage('Ваня', "Как дела?"); 
-'''
+```
 
 At the moment, my main goal is to learn a new programming language and gain knowledge. Now I work as a 1C project manager.
 At the moment I don’t have any solid skills in programming languages, but I really want to master them.
