@@ -22,8 +22,7 @@ My main goal is to learn a new programming language and gain knowledge for its f
 
 ## Code example:
 
-Ниже приведен пример кода JS в котором выражается функция. Мы можем передать внутрь функции любую информацию, используя определнные параметры.
-
+*Below is an example of JS code that expresses the function. We can pass any information inside the function using certain parameters.*
 ```
 function showMessage(from, text) { 
   alert(from + ': ' + text);
@@ -32,10 +31,15 @@ function showMessage(from, text) {
 showMessage('Петя', 'Привет!'); 
 showMessage('Ваня', "Как дела?"); 
 ```
+##Experience
 
-At the moment, my main goal is to learn a new programming language and gain knowledge. Now I work as a 1C project manager.
-At the moment I don’t have any solid skills in programming languages, but I really want to master them.
-An example code can be seen here: https://github.com/Qweende/rsschool-cv/blob/gh-pages/cv.md
-During this period of time, I did not work anywhere as a developer, I worked only in testing Yandex projects
-Education: higher legal
-English level a2+. Practiced only in correspondence with foreigners. Sometimes when using various applications.
+Now I work as a 1C project manager. During this period of time, I did not work anywhere as a developer, I worked only in testing Yandex projects. Пробовал себя в разных направлениях.
+
+##Education:
+
+* higher legal
+
+
+## Languages:
+* English level a2+. 
+*Practiced only in correspondence with foreigners. Sometimes when using various applications.*
