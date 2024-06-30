@@ -1,7 +1,7 @@
 # **PRYSTAUKA MAKSIM**
 
 
-![Изображение] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJI6N0bTeGwJ5ymJrcUQhF0KsTQqAVKdIhw&s)
+![Изображение] (https://github.com/Qweende/rsschool-cv/blob/gh-pages/7bfc792837b7edef3dc28b02721c78e9.jpg)
 ## Сontacts
 
 * Grodno,Belarus
